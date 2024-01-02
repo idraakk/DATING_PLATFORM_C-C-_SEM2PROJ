@@ -55,16 +55,16 @@ K) Delete all profiles: It clears all the database (file) of the profiles from t
 L) Exit: It exits from the Match-Making Platform.
 
 # Headers
-#include <iostream>
-#include <fstream>
-#include <string>
-#include <vector>
-#include <sstream>
-#include <algorithm>
-#include<stdio.h>
-#include<conio.h>
-#include<ctype.h>
-#include<time.h>
+include <iostream>
+include <fstream>
+include <string>
+include <vector>
+include <sstream>
+include <algorithm>
+include<stdio.h>
+include<conio.h>
+include<ctype.h>
+include<time.h>
 
 (note: conio.h works fine in winows but sometimes linux based distros and macOs don't support the library)
 
